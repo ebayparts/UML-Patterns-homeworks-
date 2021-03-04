@@ -1,0 +1,6 @@
+﻿  Observer (homework).cpp
+C:\Users\Александр\source\repos\UML + Patterns\Observer (homework)\Observer (homework).cpp(6,35): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\Александр\source\repos\UML + Patterns\Observer (homework)\Observer (homework).cpp(17,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\Александр\source\repos\UML + Patterns\Observer (homework)\Observer (homework).cpp(18,26): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\Александр\source\repos\UML + Patterns\Observer (homework)\Observer (homework).cpp(20,26): warning C4305: 'argument': truncation from 'double' to 'const float'
+  Observer (homework).vcxproj -> C:\Users\Александр\source\repos\UML + Patterns\Debug\Observer (homework).exe
